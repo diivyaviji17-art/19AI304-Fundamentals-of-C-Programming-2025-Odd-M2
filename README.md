@@ -199,8 +199,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
+<img width="1014" height="761" alt="Screenshot 2026-03-24 214459" src="https://github.com/user-attachments/assets/2f26638c-89fc-43a1-8c44-2d382642b546" />
 
 # Output:
+<img width="1026" height="535" alt="Screenshot 2026-03-24 214515" src="https://github.com/user-attachments/assets/276ef167-1758-4f04-a0b7-c8bd09e9c794" />
+
 # Result: 
   Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -252,7 +255,14 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 7:
   Decrease i by 1 and go back to Step 6.
 ### Step 8:
-  Stop
+  stop
+# Program:
+<img width="1024" height="646" alt="Screenshot 2026-03-24 214532" src="https://github.com/user-attachments/assets/8694dc37-bf33-46b9-8cd0-d6d5b4b2d5eb" />
+
+# Output:
+<img width="1035" height="543" alt="Screenshot 2026-03-24 214545" src="https://github.com/user-attachments/assets/77686b84-a5ef-46fc-9312-1d39395bf9e2" />
+
+  
 # Result:
   Thus, the program was implemented and executed successfully, and the required output was obtained.
 
