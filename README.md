@@ -56,7 +56,12 @@
 ### Step 11:
   Stop
 # Program:
+<img width="993" height="787" alt="Screenshot 2026-03-24 140837" src="https://github.com/user-attachments/assets/dcbe6e61-21a3-4cbd-997b-0357e366fbbd" />
+
 # Output:
+
+<img width="1020" height="442" alt="Screenshot 2026-03-24 140855" src="https://github.com/user-attachments/assets/9622e0c6-f2ca-42c3-9069-0acbb31bec8b" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -88,7 +93,13 @@ Thus, the program was implemented and executed successfully, and the required ou
   Stop
 
 # Program:
+
+<img width="1092" height="876" alt="Screenshot 2026-03-24 141055" src="https://github.com/user-attachments/assets/76fcbd84-2adc-4685-b039-f36cf4f68845" />
+
 # Output:
+
+<img width="997" height="794" alt="Screenshot 2026-03-24 141118" src="https://github.com/user-attachments/assets/69132ed4-5423-42b4-b125-7b8b72cbd0c5" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -131,7 +142,16 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 7:   
   Stop
 # Program:
+
+<img width="1028" height="840" alt="Screenshot 2026-03-24 141406" src="https://github.com/user-attachments/assets/3720eee4-e411-417e-a140-85bc37e5be4a" />
+
 # Output:
+
+<img width="1003" height="399" alt="Screenshot 2026-03-24 141427" src="https://github.com/user-attachments/assets/23ba8b46-07c2-43dc-80cd-384b8a4d8140" />
+
+<img width="1021" height="396" alt="Screenshot 2026-03-24 141443" src="https://github.com/user-attachments/assets/eed2ab1c-893c-495f-b430-f1dcb8157753" />
+
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -179,6 +199,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
+
 # Output:
 # Result: 
   Thus, the program was implemented and executed successfully, and the required output was obtained.
